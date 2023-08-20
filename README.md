@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Fraunhofer-Institut für Produktionstechnologie IPT](https://www.ipt.fraunhofer.de/)
 
-- 👨‍💻 All of my projects are available at [gustavommello01.vercel.com](gustavommello01.vercel.com)
+- 👨‍💻 All of my projects are available at https://gustavommello01.vercel.app/home
 
 - 📫 How to reach me **gustavommello01@gmail.com**
 
