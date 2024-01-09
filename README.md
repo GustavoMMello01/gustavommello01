@@ -2,7 +2,7 @@
 <h3 align="center">Hello! I am Gustavo, a tech enthusiast with expertise in Python, React, Vue, JavaScript, TypeScript, C#, and .NET. Python and JavaScript are my favorite languages, and I enjoy building web applications and exploring new technologies.</h3>
 
 
-- 🔭 I’m currently working on [Fraunhofer-Institut für Produktionstechnologie IPT](https://www.ipt.fraunhofer.de/)
+- 🔭 I’m currently working on [EMBRAER](https://embraer.com/global/en)
 
 - 👨‍💻 All of my projects are available at https://gustavommello01.vercel.app/home
 
