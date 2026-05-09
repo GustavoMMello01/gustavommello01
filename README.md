@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mello</h1>
-<h3 align="center">Hello! I am Gustavo, a tech enthusiast with expertise in Python, React, Vue, JavaScript, TypeScript, C#, and .NET. Python and JavaScript are my favorite languages, and I enjoy building web applications and exploring new technologies.</h3>
+<h3 align="center">Hello! I am Gustavo, a Software Developer with expertise in Java, Go, Python, React, Vue</h3>
 
 
 - 🔭 I’m currently working at [Mercado Livre]([(https://www.mercadolivre.com.br/)])
